@@ -1,3 +1,3 @@
-Abhishek
-Khushi
-Simran
+Abhishek  50
+Khushi    70
+Simran    90
